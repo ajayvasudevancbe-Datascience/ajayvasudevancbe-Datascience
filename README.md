@@ -1,16 +1,52 @@
-## Hi there 👋
+# 👋 Hi, I'm Ajay Vasudevan
 
-<!--
-**ajayvasudevancbe-Datascience/ajayvasudevancbe-Datascience** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **B.Sc. Data Science Student**  
+📊 **Aspiring Data Analyst**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+
+- 📚 Currently pursuing B.Sc. Data Science
+- 📈 Passionate about Data Analytics and Business Intelligence
+- 💡 Enjoy solving real-world problems using data
+- 🌱 Continuously learning and building practical projects
+
+---
+
+## 🛠️ Technical Skills
+
+- Python
+- SQL
+- Microsoft Excel
+- Power BI
+- Pandas
+- NumPy
+- Data Analysis
+- Data Cleaning
+- Exploratory Data Analysis (EDA)
+- Data Visualization
+- Generative AI
+
+---
+
+## 📂 Featured Projects
+
+- 📊 Ice Cream Sales Dashboard (Power BI)
+- 🛒 Retail Sales Analysis
+- 🏥 Health Insurance Premium Prediction
+- 📉 Customer Churn Prediction
+- 🧠 MNIST Image Classification
+
+---
+
+## 📫 Connect With Me
+
+- 💼 LinkedIn: https://linkedin.com/in/ajay-vasudevan-8800953a1
+- 💻 GitHub: https://github.com/ajayvasudevancbe-Datascience
+
+---
+
+⭐ Thank you for visiting my profile!
+
+
