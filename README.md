@@ -16,18 +16,19 @@
 
 ## 🛠️ Technical Skills
 
-- Python
-- SQL
-- Microsoft Excel
-- Power BI
-- Pandas
-- NumPy
-- Data Analysis
-- Data Cleaning
-- Exploratory Data Analysis (EDA)
-- Data Visualization
-- Generative AI
+**Programming:** Python | SQL
 
+**Data Analytics:** Data Cleaning | Data Analysis | Exploratory Data Analysis (EDA)
+
+**Visualization:** Power BI | Microsoft Excel | Matplotlib | Seaborn
+
+**Libraries:** Pandas | NumPy
+
+**Data Engineering:** ETL | Web Scraping | Data Wrangling
+
+**Machine Learning:** Scikit-learn | Model Building
+
+**AI:** Generative AI
 ---
 
 ## 📂 Featured Projects
