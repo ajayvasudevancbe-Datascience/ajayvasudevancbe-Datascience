@@ -7,10 +7,7 @@
 
 ## About Me
 
-- Currently pursuing B.Sc. Data Science
-- Passionate about Data Analytics and Business Intelligence
-- Enjoy solving real-world problems using data
-- Continuously learning and building practical projects
+I am a B.Sc. Data Science student with a strong interest in Data Analytics. I enjoy building practical projects using Python, SQL, Excel, and Power BI to solve real-world business problems and continuously improve my technical skills.
 
 ---
 
