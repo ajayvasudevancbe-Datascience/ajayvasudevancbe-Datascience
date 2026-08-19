@@ -27,17 +27,6 @@ GitHub • VS Code • Google Colab
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ajayvasudevancbe-Datascience&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=ajayvasudevancbe-Datascience&theme=tokyonight" alt="GitHub Streak" />
-</p>
----
-
 ## 🌐 Connect With Me
 
 [LinkedIn](https://www.linkedin.com/in/ajay-vasudevan-8800953a1/)
