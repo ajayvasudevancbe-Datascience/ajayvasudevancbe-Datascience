@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Ajay Vasudevan
+# Hi, I'm Ajay Vasudevan
 
 ### B.Sc. Data Science | Data Analytics | AI & Machine Learning
 
@@ -8,7 +8,7 @@ I enjoy working with data and using technology to transform data into meaningful
 
 ---
 
-## 🛠️ Skills
+## Skills
 
 **Programming:**  
 Python • SQL
@@ -27,7 +27,7 @@ GitHub • VS Code • Google Colab
 
 ---
 
-## 🌐 Connect With Me
+## Connect With Me
 
 [LinkedIn](https://www.linkedin.com/in/ajay-vasudevan-8800953a1/)
 
