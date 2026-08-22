@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Ajay Vasudevan
+# Ajay Vasudevan
 
 ### B.Sc. Data Science | Data Analytics | AI & Machine Learning
 
