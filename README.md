@@ -65,22 +65,12 @@ meaningful insights and practical solutions**.
 
 ---
 
-## 🔥 Contribution Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=ajayvasudevancbe-Datascience&hide_border=true" width="70%">
-
-</div>
-
----
-
 <div align="center">
 
 ### 🚀 Data Analytics • AI • Machine Learning • Business Intelligence
 
 **Learning • Building • Analyzing • Improving**
 
-⭐ *Thanks for visiting my GitHub profile!*
+⭐ Thanks for visiting my GitHub profile!
 
 </div>
