@@ -6,10 +6,8 @@
 
 **Turning Data into Insights • Building Practical AI Solutions**
 
-<p>
-  <a href="https://github.com/ajayvasudevancbe-Datascience">GitHub</a> •
-  <a href="https://www.linkedin.com/in/ajay-vasudevan-8800953a1/">LinkedIn</a>
-</p>
+<a href="https://github.com/ajayvasudevancbe-Datascience">GitHub</a> •
+<a href="https://www.linkedin.com/in/ajay-vasudevan-8800953a1/">LinkedIn</a>
 
 </div>
 
@@ -17,21 +15,63 @@
 
 ## 👨‍💻 About Me
 
-I'm a Data Science student interested in **Data Analytics, Business Intelligence, Machine Learning, NLP, and Generative AI**.
+I'm a Data Science student interested in **Data Analytics, Business Intelligence,
+Machine Learning, NLP, and Generative AI**.
 
-I enjoy working with data and using technology to transform **raw data into meaningful insights and practical solutions**.
+I enjoy working with data and using technology to transform **raw data into
+meaningful insights and practical solutions**.
 
 ---
 
 ## 🛠️ Skills
 
-| Category | Technologies |
-|---|---|
-| **Programming** | Python • SQL |
-| **Data & Databases** | Pandas • NumPy • MySQL • MongoDB |
-| **Business Intelligence** | Power BI • Power Query • DAX • Excel |
-| **AI & Machine Learning** | Machine Learning • NLP • Transformers • Generative AI • LLM • RAG • Prompt Engineering |
-| **Tools** | GitHub • VS Code • Google Colab |
+<div align="center">
+
+| 💻 Programming | 📊 Data & BI | 🤖 AI & ML | 🔧 Tools |
+|:---:|:---:|:---:|:---:|
+| Python | Pandas | Machine Learning | GitHub |
+| SQL | NumPy | NLP | VS Code |
+| | MySQL | Transformers | Google Colab |
+| | MongoDB | Generative AI | |
+| | Power BI | LLM • RAG | |
+| | Power Query | Prompt Engineering | |
+| | DAX • Excel | | |
+
+</div>
+
+---
+
+## 📊 GitHub Activity
+
+<div align="center">
+
+### 📈 Contribution Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ajayvasudevancbe-Datascience&hide_border=true&area=true" width="95%">
+
+</div>
+
+---
+
+## 📌 GitHub Statistics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=ajayvasudevancbe-Datascience&show_icons=true&hide_border=true&rank_icon=github" height="165">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajayvasudevancbe-Datascience&layout=compact&hide_border=true" height="165">
+
+</div>
+
+---
+
+## 🔥 Contribution Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=ajayvasudevancbe-Datascience&hide_border=true" width="70%">
+
+</div>
 
 ---
 
@@ -40,5 +80,7 @@ I enjoy working with data and using technology to transform **raw data into mean
 ### 🚀 Data Analytics • AI • Machine Learning • Business Intelligence
 
 **Learning • Building • Analyzing • Improving**
+
+⭐ *Thanks for visiting my GitHub profile!*
 
 </div>
