@@ -51,17 +51,6 @@ meaningful insights and practical solutions**.
 
 </div>
 
----
-
-## 📌 GitHub Statistics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=ajayvasudevancbe-Datascience&show_icons=true&hide_border=true&rank_icon=github" height="165">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajayvasudevancbe-Datascience&layout=compact&hide_border=true" height="165">
-
-</div>
 
 ---
 
