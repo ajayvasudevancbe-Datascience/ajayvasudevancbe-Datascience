@@ -27,15 +27,17 @@ meaningful insights and practical solutions**.
 
 <div align="center">
 
-| 💻 Programming | 📊 Data & BI | 🤖 AI & ML | 🔧 Tools |
-|:---:|:---:|:---:|:---:|
-| Python | Pandas | Machine Learning | GitHub |
-| SQL | NumPy | NLP | VS Code |
-| | MySQL | Transformers | Google Colab |
-| | MongoDB | Generative AI | |
-| | Power BI | LLM • RAG | |
-| | Power Query | Prompt Engineering | |
-| | DAX • Excel | | |
+| **Programming** | **Data Analytics** | **Database** | **BI Visualization** | **AI ML**                         | **Tools**    |
+| --------------- | ------------------ | ------------ | -------------------- | --------------------------------- | ------------ |
+| Python          | Pandas             | MySQL        | Power BI             | Machine Learning                  | GitHub       |
+| SQL             | NumPy              | MongoDB      | Power Query          | Deep Learning (DL)                | VS Code      |
+|                 |                    |              | DAX                  | Natural Language Processing (NLP) | Google Colab |
+|                 |                    |              | Excel                | Transformers                      |              |
+|                 |                    |              |                      | Generative AI                     |              |
+|                 |                    |              |                      | LLMs                              |              |
+|                 |                    |              |                      | RAG                               |              |
+|                 |                    |              |                      | Prompt Engineering                |              |
+
 
 </div>
 
