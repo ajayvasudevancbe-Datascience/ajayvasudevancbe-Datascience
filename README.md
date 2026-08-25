@@ -43,23 +43,6 @@ meaningful insights and practical solutions**.
 
 ---
 
-## 📊 GitHub Activity
-
-<div align="center">
-
-### 📈 Contribution Graph
-
-<p align="center">
-  <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=ajayvasudevancbe-Datascience&hide_border=true&area=true"
-    width="95%"
-  />
-</p>
-</div>
-
-
----
-
 <div align="center">
 
 ### 🚀 Data Analytics • AI • Machine Learning • Business Intelligence
