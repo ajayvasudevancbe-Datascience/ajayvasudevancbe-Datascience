@@ -2,7 +2,7 @@
 
 # Ajay Vasudevan
 
-### B.Sc. Data Science | Data Analytics | AI & Machine Learning
+### **B.Sc. Data Science | Data Analytics | Generative AI**
 
 **Turning Data into Insights • Building Practical AI Solutions**
 
