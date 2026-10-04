@@ -15,11 +15,10 @@
 
 ## 👨‍💻 About Me
 
-I'm a Data Science student interested in **Data Analytics, Business Intelligence,
-Machine Learning, NLP, and Generative AI**.
+I'm a **Data Science student** interested in **Data Science and Generative AI**.
 
-I enjoy working with data and using technology to transform **raw data into
-meaningful insights and practical solutions**.
+I enjoy working with data and using technology to transform **raw data into meaningful insights and practical solutions**.
+
 
 ---
 
@@ -45,7 +44,7 @@ meaningful insights and practical solutions**.
 
 <div align="center">
 
-### 🚀 Data Analytics • AI • Machine Learning • Business Intelligence
+### 🚀 Data Science • Generative AI • Machine Learning • Data Analytics
 
 **Learning • Building • Analyzing • Improving**
 
